@@ -30,8 +30,8 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 </p>
 
-<h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phoenix7290&layout=compact&theme=react" alt=Phoenix7290 />
+<h3 align="center">More information:</h3>
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phoenix7290&layout=compact&theme=react" alt=Phoenix7290 />
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="My Github User Content" ><h3 align="center">Statistics</h3>
 <div align="center">
