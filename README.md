@@ -34,9 +34,8 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 </p>
 
-<h3 align="right">Support:</h3>
-<p><a href="https://ko-fi.com/phoenix7290"> <img align="right" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="phoenix7290" /></a></p><br><br>
-
+<h3 align="left">Support:</h3>
+<p><a href="https://ko-fi.com/phoenix7290"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="phoenix7290" /></a></p><br><br>
 
 <h3 align="center">More information:</h3>
 <div align="center">
