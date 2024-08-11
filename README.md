@@ -34,6 +34,10 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 </p>
 
+<h3 align="right">Support:</h3>
+<p><a href="https://ko-fi.com/phoenix7290"> <img align="right" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="phoenix7290" /></a></p><br><br>
+
+
 <h3 align="center">More information:</h3>
 <div align="center">
 <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phoenix7290&layout=compact&theme=react" alt=Phoenix7290 />
@@ -47,6 +51,3 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Phoenix7290&theme=2077" alt="My Github Profile Summary Alternative" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Phoenix7290&theme=algolia" alt="My Github Profile Summary Alternative" height="180em" />
 </div>
-
-<h3 align="right">Support:</h3>
-<p><a href="https://ko-fi.com/phoenix7290"> <img align="right" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="phoenix7290" /></a></p><br><br>
