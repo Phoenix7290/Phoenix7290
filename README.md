@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React, ReactNative, Java and Scrum**
 
-- 📫 How to reach me [ryansantos_2018@yahoo.com](mailto:ryansantos_2018@yahoo.com)
+- 📫 How to reach me [marcos.ryanss.br@gmail.com](mailto:marcos.ryanss.br@gmail.com)
 
 <div> <a href="https://www.linkedin.com/in/marcos-ryan-274266268/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" target="_blank"></a>
 <a href="https://github.com/Phoenix7290" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github" target="_blank"></a>
