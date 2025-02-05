@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **University projects**
 
-- 👯 I’m looking to collaborate on [infnet-eds](https://github.com/Phoenix7290/infnet-eds)
+- 👯 I’m looking to collaborate on [Infnet-Libreary](https://github.com/Phoenix7290/infnet-library)
 
 - 🌱 I’m currently learning **React, ReactNative, Java and Scrum**
 
