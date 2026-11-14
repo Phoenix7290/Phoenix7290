@@ -1,52 +1,81 @@
-<h1 align="center">Hi 👋, I'm Marcos Ryan. Also known as Phoenix7290.</h1>
-
-<h3 align="center">A passionate Software Engineer from Brazil.</h3>
-
-- 🔭 I’m currently working on **University projects**
-
-- 👯 I’m looking to collaborate on [Infnet-Library](https://github.com/Phoenix7290/infnet-library)
-
-- 🌱 I’m currently learning **React, ReactNative, Java and Scrum**
-
-- 📫 How to reach me [marcos.ryanss.br@gmail.com](mailto:marcos.ryanss.br@gmail.com)
-
-<div> <a href="https://www.linkedin.com/in/marcos-ryan-274266268/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" target="_blank"></a>
-<a href="https://github.com/Phoenix7290" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github" target="_blank"></a>
-<a href="https://www.instagram.com/ryan_72900/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" target="_blank"></a>
-<a href = "mailto:ryansantos_2018@yahoo.com "><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="linkedin" target="_blank"></a>
-</div><h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/marcos-ryan-274266268/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="linkedin: marcos-ryan-274266268/" height="30" width="40" /></a><a href="https://www.facebook.com/profile.php?id=100070472047488" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="Facebook Profile uid: 100070472047488" height="30" width="40" /></a><a href="https://www.youtube.com/@Phoenix72950" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/youtube.svg" alt="Youtube channel link: https://www.youtube.com/@Phoenix72950" height="30" width="40" /></a><a href="https://discord.com/users/605488871773437993" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/discord.svg" alt="discord user id: 605488871773437993" height="30" width="40" /></a><a href="https://www.instagram.com/ryan_72900/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="Instagram account: ryan_72900/" height="30" width="40" /></a></p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/c-original.svg" alt="C" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/java-original.svg" alt="Java" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/typescript-original.svg" alt="Typescript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="Css" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/nodejs-original-wordmark.svg" alt="NodeJs" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/figma-icon.svg" alt="Figma" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-</p>
-
-<h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/phoenix7290"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="phoenix7290" /></a></p><br><br>
-
-<h3 align="center">More information:</h3>
 <div align="center">
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phoenix7290&layout=compact&theme=react" alt=Phoenix7290 />
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="My Github User Content" ><h3 align="center">Statistics</h3>
-<div align="center">
-<a href="https://github.com/Phoenix7290">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Phoenix7290&theme=2077" alt="My Github Profile Summary" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Phoenix7290&theme=2077" alt="My Github Profile Summary Alternative" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Phoenix7290&theme=2077" alt="My Github Profile Summary Alternative" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Phoenix7290&theme=2077" alt="My Github Profile Summary Alternative" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Phoenix7290&theme=algolia" alt="My Github Profile Summary Alternative" height="180em" />
+# Marcos Ryan (`Phoenix7290`)
+
+**Software Engineering Student · Backend, CLI Tools & Self-Hosted Infrastructure**
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-0F172A?style=flat-square&logo=vercel&logoColor=white)](https://portfolio.marcosryan.online/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-ryan-274266268/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:marcos.ryanss.br@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/605488871773437993)
+
 </div>
+
+---
+
+### About
+
+Software Engineering student at **Instituto Infnet** (Brazil), focused on building practical backend services, developer CLI tools, and self-hosted automation on Linux.
+
+- Currently building cross-platform gateways in **Go**, secure APIs in **Python (FastAPI)**, and multiplayer/web systems in **TypeScript**.
+- Interested in systems programming, API security (OWASP / LGPD), Dockerized homelabs, and developer tooling.
+
+---
+
+### Featured Projects
+
+| Project | Stack | Description |
+| :--- | :--- | :--- |
+| **[agy-mobile-gateway](https://github.com/Phoenix7290/agy-mobile-gateway)** | `Go` `PWA` `SSE` | Mobile-first web gateway & PWA for remote workstation control with resumable SSE jobs, file transfers, Wake-on-LAN, and SSH terminal. |
+| **[disbox](https://github.com/Phoenix7290/disbox)** | `Go` `Discord` | Discord bot integrated with the TorBox API to manage torrent and file downloads directly from Discord. |
+| **[medsync-api](https://github.com/Phoenix7290/medsync-api)** | `Python` `FastAPI` `SQLModel` | Modular REST API for medical clinic scheduling designed around LGPD compliance and OWASP API Security Top 10. |
+| **[github-auditor](https://github.com/Phoenix7290/github-auditor)** | `Python` `CLI` | Read-only GitHub relationship auditor & telemetry CLI with snapshot deltas, whitelist protection, and rate-limit tracking. |
+| **[hegemonia](https://github.com/Phoenix7290/hegemonia)** | `TypeScript` `Svelte` `Colyseus` | Authoritative multiplayer geopolitical strategy engine running in the browser with real-time WebSockets and vector maps. |
+
+---
+
+### Tech Stack
+
+<table>
+  <tr>
+    <td align="center" width="96"><strong>Languages</strong></td>
+    <td>
+      <img src="assets/icons/go.svg" width="32" height="32" alt="Go" title="Go" />&nbsp;&nbsp;
+      <img src="assets/icons/python.svg" width="32" height="32" alt="Python" title="Python" />&nbsp;&nbsp;
+      <img src="assets/icons/typescript.svg" width="32" height="32" alt="TypeScript" title="TypeScript" />&nbsp;&nbsp;
+      <img src="assets/icons/javascript.svg" width="32" height="32" alt="JavaScript" title="JavaScript" />&nbsp;&nbsp;
+      <img src="assets/icons/csharp.svg" width="32" height="32" alt="C#" title="C#" />&nbsp;&nbsp;
+      <img src="assets/icons/java.svg" width="32" height="32" alt="Java" title="Java" />&nbsp;&nbsp;
+      <img src="assets/icons/c.svg" width="32" height="32" alt="C" title="C" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Web &amp; APIs</strong></td>
+    <td>
+      <img src="assets/icons/fastapi.svg" width="32" height="32" alt="FastAPI" title="FastAPI" />&nbsp;&nbsp;
+      <img src="assets/icons/react.svg" width="32" height="32" alt="React" title="React" />&nbsp;&nbsp;
+      <img src="assets/icons/nodejs.svg" width="32" height="32" alt="Node.js" title="Node.js" />&nbsp;&nbsp;
+      <img src="assets/icons/postgresql.svg" width="32" height="32" alt="PostgreSQL" title="PostgreSQL" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Infra &amp; Tools</strong></td>
+    <td>
+      <img src="assets/icons/linux.svg" width="32" height="32" alt="Linux" title="Linux" />&nbsp;&nbsp;
+      <img src="assets/icons/docker.svg" width="32" height="32" alt="Docker" title="Docker" />&nbsp;&nbsp;
+      <img src="assets/icons/cloudflare.svg" width="32" height="32" alt="Cloudflare" title="Cloudflare" />&nbsp;&nbsp;
+      <img src="assets/icons/git.svg" width="32" height="32" alt="Git" title="Git" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### Recently Updated
+
+<!-- RECENT_REPOS:START -->
+- **[agy-mobile-gateway](https://github.com/Phoenix7290/agy-mobile-gateway)** (`Go` · updated 2026-11-14) — agy-mobile-gateway
+- **[hegemonia](https://github.com/Phoenix7290/hegemonia)** (`TypeScript` · updated 2026-11-13)
+- **[Caua_Guilherme_Gustavo_Marcos](https://github.com/Phoenix7290/Caua_Guilherme_Gustavo_Marcos)** (`Jupyter Notebook` · updated 2026-10-27) — FastAPI-EDA
+- **[github-auditor](https://github.com/Phoenix7290/github-auditor)** (`Python` · updated 2026-10-19)
+<!-- RECENT_REPOS:END -->
