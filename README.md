@@ -74,8 +74,8 @@ Software Engineering student at **Instituto Infnet** (Brazil), focused on buildi
 ### Recently Updated
 
 <!-- RECENT_REPOS:START -->
-- **[hegemonia](https://github.com/Phoenix7290/hegemonia)** (`TypeScript` · updated 2026-11-19)
 - **[Caua_Guilherme_Gustavo_Marcos](https://github.com/Phoenix7290/Caua_Guilherme_Gustavo_Marcos)** (`Jupyter Notebook` · updated 2026-11-18) — FastAPI-EDA
-- **[agy-mobile-gateway](https://github.com/Phoenix7290/agy-mobile-gateway)** (`Go` · updated 2026-11-18) — agy-mobile-gateway
 - **[Infnet-Library](https://github.com/Phoenix7290/Infnet-Library)** (`HTML` · updated 2026-11-14) — Todas as questões do primeiro semestre de 2024 em EDS no Instituto INFNET.
+- **[github-auditor](https://github.com/Phoenix7290/github-auditor)** (`Python` · updated 2026-10-19)
+- **[medsync-api](https://github.com/Phoenix7290/medsync-api)** (`Python` · updated 2026-10-04)
 <!-- RECENT_REPOS:END -->
